@@ -9,3 +9,4 @@ char* StrCpy(char* src)
 	dst[len] = '\0';
 	return dst;
 }
+每天努力一点点

@@ -1,0 +1,2 @@
+C:\Users\zxdn\source\repos\StaticMath\Debug\MathLibrary.pdb
+C:\Users\zxdn\source\repos\StaticMath\MathLibrary\Debug\MathLibrary.pdb
